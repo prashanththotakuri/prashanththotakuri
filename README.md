@@ -37,5 +37,6 @@ I don’t just write tests — I engineer quality systems.
 - **Appium Mobile Framework** – Android & iOS support  
 
 ---
+📌 All projects include CI integration using GitHub Actions.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/prashanth-t-20a16b147)
