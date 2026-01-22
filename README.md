@@ -12,13 +12,6 @@ Senior QA Automation Engineer with 9+ years of experience building scalable, ent
 I specialize in designing maintainable automation architecture integrated with CI/CD pipelines to improve release confidence and reduce regression effort.
 
 ---
----
-
-## 📊 GitHub Stats
-
-![Prashanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashanththotakuri&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prashanththotakuri&layout=compact&theme=default)
 
 ## Core Expertise
 
