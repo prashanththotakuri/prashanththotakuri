@@ -1,3 +1,7 @@
+<div align="center">
+
+# Prashanth Thotakuri  
+### Senior QA Automation Engineer | UI • API • Mobile • CI/CD
 ## 🚀 Automation Engineering Philosophy
 
 I build automation that:
@@ -7,11 +11,6 @@ I build automation that:
 - Improves release confidence
 
 My focus is not just writing tests — but engineering quality solutions.
-<div align="center">
-
-# Prashanth Thotakuri  
-### Senior QA Automation Engineer | UI • API • Mobile • CI/CD
-
 I design and build reliable, scalable test automation frameworks that help teams release software with confidence.
 
 🔹 Selenium • Playwright • API (Postman / RestAssured) • Appium • Jenkins • GitHub Actions  
