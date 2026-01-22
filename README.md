@@ -1,3 +1,5 @@
+🚀 Portfolio of real-world automation frameworks built using Selenium, RestAssured, Playwright, and Appium — all integrated with CI/CD using GitHub Actions.
+
 # Prashanth Thotakuri
 
 ### Senior QA Automation Engineer | UI • API • Mobile • CI/CD
