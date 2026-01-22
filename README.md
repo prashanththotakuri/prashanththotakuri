@@ -1,3 +1,12 @@
+## 🚀 Automation Engineering Philosophy
+
+I build automation that:
+- Scales with enterprise applications
+- Integrates seamlessly into CI/CD pipelines
+- Reduces regression effort significantly
+- Improves release confidence
+
+My focus is not just writing tests — but engineering quality solutions.
 <div align="center">
 
 # Prashanth Thotakuri  
