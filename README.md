@@ -1,9 +1,10 @@
 # Prashanth Thotakuri
 
-## Senior QA Automation Engineer  
-UI • API • Mobile • CI/CD
+### Senior QA Automation Engineer | UI • API • Mobile • CI/CD
 
-I build scalable automation frameworks that improve release confidence and reduce regression effort.
+Senior QA Automation Engineer with 9+ years of experience building scalable, enterprise-grade automation frameworks for web, API, and mobile applications.
+
+I specialize in designing maintainable automation architecture integrated with CI/CD pipelines to improve release confidence and reduce regression effort.
 
 ---
 
@@ -20,10 +21,11 @@ I build scalable automation frameworks that improve release confidence and reduc
 
 ## Automation Engineering Approach
 
-- Enterprise-ready and scalable architecture
-- Clean, maintainable, reusable framework design
-- Seamless CI/CD integration
-- Cross-browser and cross-device execution support
+- Enterprise-ready automation architecture
+- Maintainable and reusable framework design
+- CI/CD pipeline integration
+- Cross-browser and cross-device execution
+- Scalable parallel execution strategy
 
 I don’t just write tests — I engineer quality systems.
 
@@ -31,12 +33,16 @@ I don’t just write tests — I engineer quality systems.
 
 ## Featured Projects
 
-- **Selenium Java Automation Framework** – POM + TestNG + Maven  
-- **API Automation Framework** – RestAssured + Schema Validation  
-- **Playwright UI Automation** – Cross-browser + Parallel Execution  
-- **Appium Mobile Framework** – Android & iOS support  
+### Selenium Java Automation Framework
+POM-based framework using TestNG + Maven with reusable utilities and reporting integration.
 
----
+### API Automation Framework
+RestAssured-based framework with request/response validation and schema validation support.
+
+### Playwright UI Automation
+Cross-browser automation with parallel execution using modern TypeScript architecture.
+
+### Appium Mobile Framework
+Android & iOS automation framework with reusable driver setup and device configuration.
+
 📌 All projects include CI integration using GitHub Actions.
-
-🔗 [LinkedIn](https://www.linkedin.com/in/prashanth-t-20a16b147)
