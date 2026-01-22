@@ -1,14 +1,13 @@
-<div align="center">
 # Prashanth Thotakuri
 
-**Senior QA Automation Engineer**  
-UI • API • Mobile • CI/CD  
+## Senior QA Automation Engineer  
+UI • API • Mobile • CI/CD
 
-I design and build scalable, enterprise-grade automation frameworks that improve release confidence and reduce regression effort.
+I build scalable automation frameworks that improve release confidence and reduce regression effort.
 
 ---
 
-## 🔧 Core Expertise
+## Core Expertise
 
 - Selenium WebDriver (Java)
 - Playwright (TypeScript / JavaScript)
@@ -19,20 +18,18 @@ I design and build scalable, enterprise-grade automation frameworks that improve
 
 ---
 
-## 🚀 Automation Engineering Approach
+## Automation Engineering Approach
 
-I focus on building automation that is:
-
-- Enterprise-ready and scalable  
-- Clean, maintainable, and reusable  
-- Integrated seamlessly into CI/CD pipelines  
-- Designed for cross-browser and cross-device execution  
+- Enterprise-ready and scalable architecture
+- Clean, maintainable, reusable framework design
+- Seamless CI/CD integration
+- Cross-browser and cross-device execution support
 
 I don’t just write tests — I engineer quality systems.
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 - **Selenium Java Automation Framework** – POM + TestNG + Maven  
 - **API Automation Framework** – RestAssured + Schema Validation  
@@ -41,4 +38,4 @@ I don’t just write tests — I engineer quality systems.
 
 ---
 
-📎 [LinkedIn](https://www.linkedin.com/in/prashanth-t-20a16b147)
+🔗 [LinkedIn](https://www.linkedin.com/in/prashanth-t-20a16b147)
