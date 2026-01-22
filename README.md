@@ -40,20 +40,34 @@ I focus on:
 ---
 
 ## 🧰 Technology Stack
+---
+
+## ⭐ Featured Automation Projects
+
+### 🔹 Selenium Java Automation Framework
+Enterprise-style Selenium framework using Java, TestNG, Maven, and Page Object Model with reporting and CI-ready structure.
+
+### 🔹 API Automation – Postman & RestAssured
+End-to-end API automation covering CRUD operations, authentication, schema validation, and Newman execution.
+
+### 🔹 Playwright UI Automation
+Modern Playwright framework with cross-browser support, parallel execution, and stable locators.
+
+### 🔹 Appium Mobile Automation
+Mobile automation framework for Android and iOS with emulator and real device support.
+---
+Languages: Java, JavaScript, Python
+Tools: Selenium, Playwright, Cypress, Postman, RestAssured, Appium
+CI/CD: Jenkins, GitHub Actions
+Frameworks: TestNG, Cucumber, POM, BDD
+Tracking: JIRA
+
+---
+
+📌 This GitHub profile showcases real-world QA automation frameworks, CI/CD integration, and testing strategies used in enterprise projects.
+Feel free to explore my repositories or connect with me on LinkedIn.
 
 
 
-<!--
-**prashanththotakuri/prashanththotakuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
