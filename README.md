@@ -1,11 +1,12 @@
 # Prashanth Thotakuri
 
 ### Senior QA Automation Engineer | UI • API • Mobile • CI/CD
+
 ![Selenium](https://img.shields.io/badge/Selenium-Java-green)
 ![Playwright](https://img.shields.io/badge/Playwright-TypeScript-blue)
 ![RestAssured](https://img.shields.io/badge/API-RestAssured-orange)
 ![Appium](https://img.shields.io/badge/Mobile-Appium-purple)
-![CI/CD](https://img.shields.io/badge/CI-CD_GitHub_Actions-black)
+![CI/CD](https://img.shields.io/badge/CI/CD-GitHub%20Actions-black)
 
 Senior QA Automation Engineer with 9+ years of experience building scalable, enterprise-grade automation frameworks for web, API, and mobile applications.
 
@@ -37,34 +38,42 @@ I don’t just write tests — I engineer quality systems.
 ---
 
 ## Featured Projects
+
 ### 🔹 Selenium Java Automation Framework  
 ✔ POM + TestNG + Maven  
 ✔ Reusable utilities  
 ✔ Extent reporting  
-✔ GitHub Actions CI integration  
-🔗 [View Repository](https://github.com/prashanththotakuri/selenium-java-automation-framework)
+✔ CI-ready structure (GitHub Actions)  
+🔗 Repo: https://github.com/prashanththotakuri/selenium-java-automation-framework
 
-### Selenium Java Automation Framework
-POM-based framework using TestNG + Maven with reusable utilities and reporting integration.
-![Build](https://github.com/prashanththotakuri/REPO_NAME/actions/workflows/maven.yml/badge.svg)
-![Build](https://github.com/prashanththotakuri/selenium-java-automation-framework/actions/workflows/maven.yml/badge.svg)
+---
 
-### API Automation Framework
-RestAssured-based framework with request/response validation and schema validation support.
-![Build](https://github.com/prashanththotakuri/REPO_NAME/actions/workflows/maven.yml/badge.svg)
-![Build](https://github.com/prashanththotakuri/api-automation-framework/actions/workflows/maven.yml/badge.svg)
+### 🔹 API Automation Framework  
+✔ RestAssured + Postman patterns  
+✔ Auth, assertions, validations  
+✔ Reusable request structure  
+🔗 Repo: https://github.com/prashanththotakuri/api-automation-framework
 
-### Playwright UI Automation
-Cross-browser automation with parallel execution using modern TypeScript architecture.
-![Build](https://github.com/prashanththotakuri/REPO_NAME/actions/workflows/maven.yml/badge.svg)
-![Build](https://github.com/prashanththotakuri/playwright-ui-automation/actions/workflows/playwright.yml/badge.svg)
+---
 
-### Appium Mobile Framework
-Android & iOS automation framework with reusable driver setup and device configuration.
-![Build](https://github.com/prashanththotakuri/REPO_NAME/actions/workflows/maven.yml/badge.svg)
-![Build](https://github.com/prashanththotakuri/appium-mobile-automation/actions/workflows/maven.yml/badge.svg)
+### 🔹 Playwright UI Automation  
+✔ Modern TypeScript structure  
+✔ Cross-browser + retries  
+✔ Smoke + regression setup  
+🔗 Repo: https://github.com/prashanththotakuri/playwright-ui-automation
 
-📌 All projects include CI integration using GitHub Actions.
+---
+
+### 🔹 Appium Mobile Framework  
+✔ Android + iOS automation setup  
+✔ Reusable driver setup  
+✔ Device configuration patterns  
+🔗 Repo: https://github.com/prashanththotakuri/appium-mobile-automation
+
+---
+
+📌 All projects include CI integration (GitHub Actions) where configured.
+
 ## 📊 GitHub Stats
 
 ![Prashanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashanththotakuri&show_icons=true&theme=default)
