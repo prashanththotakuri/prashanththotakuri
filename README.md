@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Prashanth%20Thotakuri&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
@@ -45,10 +44,10 @@ With **9+ years of experience** in QA automation, I specialize in:
 
 I believe test automation is about building *systems*, not just writing scripts. Every framework I create focuses on:
 
-- **Maintainability** - Code that teams actually want to work with
-- **Scalability** - Grows with your application without becoming a bottleneck
-- **Reliability** - Tests you can trust to catch real bugs
-- **Developer Experience** - Developers love using the framework
+- **Maintainability** — Code that teams actually want to work with
+- **Scalability** — Grows with your application without becoming a bottleneck
+- **Reliability** — Tests you can trust to catch real bugs
+- **Developer Experience** — Developers love using the framework
 
 ---
 
@@ -56,20 +55,20 @@ I believe test automation is about building *systems*, not just writing scripts.
 
 ### Framework Engineering
 
-- **Selenium WebDriver** (Java) - Enterprise-grade automation
-- **Playwright** (TypeScript) - Modern, fast UI automation
-- **Appium** (Java) - Mobile automation for Android & iOS
-- **RestAssured** (Java) - Comprehensive API testing
-- **TestNG & BDD** - Test organization and execution
+- **Selenium WebDriver** (Java) — Enterprise-grade automation
+- **Playwright** (TypeScript) — Modern, fast UI automation
+- **Appium** (Java) — Mobile automation for Android & iOS
+- **RestAssured** (Java) — Comprehensive API testing
+- **TestNG & BDD** — Test organization and execution
 
 ### Specializations
 
-- **Page Object Model** - Creating maintainable, scalable page objects
-- **Test Data Management** - Handling complex test data scenarios
-- **CI/CD Integration** - GitHub Actions, Jenkins, GitLab CI
-- **Performance Testing** - Identifying automation bottlenecks
-- **Visual Regression** - Screenshot comparison and validation
-- **Cross-browser/Cross-platform** - Testing at scale
+- **Page Object Model** — Creating maintainable, scalable page objects
+- **Test Data Management** — Handling complex test data scenarios
+- **CI/CD Integration** — GitHub Actions, Jenkins, GitLab CI
+- **Performance Testing** — Identifying automation bottlenecks
+- **Visual Regression** — Screenshot comparison and validation
+- **Cross-browser/Cross-platform** — Testing at scale
 
 ### Skills Matrix
 
@@ -106,7 +105,7 @@ I believe test automation is about building *systems*, not just writing scripts.
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔹 Selenium Java Automation Framework
 
@@ -126,7 +125,7 @@ loginPage.login("user@example.com", "password");
 assert HomePage.isDashboardDisplayed();
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 
 🔹 Playwright UI Automation
@@ -141,13 +140,15 @@ View Repository →￼
 
 // Type-safe, modern automation
 const loginPage = new LoginPage(page);
-await loginPage.login('user@example.com', 'pass');
+await loginPage.login("user@example.com", "pass");
 await expect(page).toHaveTitle(/Dashboard/);
 
 </td>
 </tr>
+
+
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 
 🔹 API Automation Framework
@@ -169,7 +170,7 @@ RestAssured.given()
     .body("email", equalTo("user@example.com"));
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 
 🔹 Appium Mobile Automation
@@ -183,7 +184,7 @@ Android & iOS automation from one codebase
 View Repository →￼
 
 // Cross-platform mobile testing
-LoginPage loginPage = 
+LoginPage loginPage =
     LoginPageFactory.create(driver, platform);
 loginPage.login("user@example.com", "pass");
 assert homePage.isDashboardDisplayed();
@@ -317,11 +318,11 @@ Get in touch:
 🤝 Open to Collaboration
 
 I’m interested in:
-	•	Framework Development - Building next-gen automation frameworks
-	•	Mentoring - Helping teams improve their automation practices
-	•	Speaking - QA automation talks and workshops
-	•	Open Source - Contributing to automation tools and libraries
-	•	Consulting - Test automation strategy for enterprises
+	•	Framework Development — Building next-gen automation frameworks
+	•	Mentoring — Helping teams improve their automation practices
+	•	Speaking — QA automation talks and workshops
+	•	Open Source — Contributing to automation tools and libraries
+	•	Consulting — Test automation strategy for enterprises
 
 ⸻
 
@@ -356,7 +357,7 @@ I’m interested in:
 <div align="center">
 
 
-“Quality is not an act, it is a habit.” - Aristotle
+“Quality is not an act, it is a habit.” — Aristotle
 
 Built with ❤️ for the QA community
 
@@ -364,5 +365,3 @@ Built with ❤️ for the QA community
 
 </div>
 ```
-
-
