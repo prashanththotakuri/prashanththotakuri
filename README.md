@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Prashanth%20Thotakuri&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20QA%20Automation%20Engineer&descAlignY=50&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Prashanth%20Prashanth&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20QA%20Automation%20Engineer&descAlignY=50&descAlign=62" />
 </p>
 
 <h1 align="center">
@@ -157,7 +157,7 @@ assert HomePage.isDashboardDisplayed();
 - Production-ready CI/CD integration
 - Comprehensive documentation
 
-**[View Repository →](https://github.com/prashanththotakuri/selenium-java-automation-framework)**
+**[View Repository →](https://github.com/prashanthPrashanth/selenium-java-automation-framework)**
 
 -----
 
@@ -179,7 +179,7 @@ await expect(page).toHaveTitle(/Dashboard/);
 - Auto-waiting reduces flakiness by 95%
 - Mobile emulation & visual testing
 
-**[View Repository →](https://github.com/prashanththotakuri/playwright-typescript-framework)**
+**[View Repository →](https://github.com/prashanthPrashanth/playwright-typescript-framework)**
 
 -----
 
@@ -204,7 +204,7 @@ RestAssured.given()
 - Multiple authentication methods
 - Performance SLA tracking & reporting
 
-**[View Repository →](https://github.com/prashanththotakuri/restassured-api-framework)**
+**[View Repository →](https://github.com/prashanthPrashanth/restassured-api-framework)**
 
 -----
 
@@ -226,7 +226,7 @@ assert homePage.isDashboardDisplayed();
 - Performance metrics tracking
 - Cloud device integration ready
 
-**[View Repository →](https://github.com/prashanththotakuri/appium-mobile-framework)**
+**[View Repository →](https://github.com/prashanthPrashanth/appium-mobile-framework)**
 
 -----
 
@@ -234,21 +234,21 @@ assert homePage.isDashboardDisplayed();
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=prashanththotakuri&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=prashanthPrashanth&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanththotakuri&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=prashanththotakuri&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanthPrashanth&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=prashanththotakuri&theme=github-compact&hide_border=true" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=prashanthPrashanth&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=prashanthPrashanth&theme=github-compact&hide_border=true" />
 
 </div>
 
@@ -287,9 +287,9 @@ assert homePage.isDashboardDisplayed();
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prashanththotakuri30@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prashanthPrashanth30@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashanth-prashanth-57b691130)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prashanththotakuri)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prashanthPrashanth)
 
 </div>
 
@@ -343,7 +343,7 @@ Philosophy:      Build quality systems, not just tests
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=prashanththotakuri&label=Profile%20Views&color=0e75b6&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=prashanthPrashanth&label=Profile%20Views&color=0e75b6&style=flat-square)
 
 </div>
 
